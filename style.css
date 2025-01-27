@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "NotoSans";
+    src: url(Font/NotoSans-VariableFont_wdth\,wght.ttf);
+}
+
+
+*{
+    font-family: NotoSans;
+}
+.nav-bar{
+    background-color: #f85606;
+}
+.nav-list{
+    color: white;
+}
+.nav-input{
+    width: 500px;
+}
